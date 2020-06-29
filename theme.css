@@ -1,0 +1,171 @@
+#bbo_ad1 {
+  display: none !important;
+}
+#bbo_app {
+  top: 0px !important;
+}
+.bodyClass {
+  background: #212121 !important;
+}
+
+.preLoginScreenClass {
+  background: #212121 !important;
+}
+
+.navClass {
+  background: #424242 !important;
+  color: white !important;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+navigation-list .titleSpanClass {
+  display: none !important;
+}
+
+menu-item > div {
+  background: #424242 !important;
+  color: white !important;
+}
+
+.contentClass > .statsClass {
+  background: #212121 !important;
+  color: white !important;
+}
+
+.titleBarClass, .titleBarClass > * {
+  background: #424242 !important;
+}
+
+.dealScreenDivClass {
+  background: #212121 !important;
+}
+
+.tricksPanelContractDivClass {
+  background: #BDBDBD !important;
+  border-radius: 3px !important;
+}
+
+.cardClass > .backgroundBack {
+  background: #424242 !important;
+  border-width: 1px !important;
+}
+
+.dealViewerToolbarClass {
+  background: #212121 !important;
+}
+
+.coverClass {
+  background: #212121 !important;
+}
+
+.nameBarClass {
+  background: #212121 !important;
+  color: white !important;
+  border: none !important;
+}
+
+.nameBarClass > .directionClass {
+  background: transparent !important;
+}
+
+.nameBarClass > .imageClass {
+  filter: grayscale(100%) !important;
+}
+
+.biddingBoxClass {
+  background: transparent !important;
+  border: none !important;
+}
+
+.callExplanationClass {
+  background: none !important;
+  border: none !important;
+  color: white !important;
+  border-radius: 0 !important;
+}
+
+.callExplanationClass > div:nth-child(1) {
+  background: none !important;
+  border: none !important;
+  color: white !important;
+  display: none !important;
+}
+
+.callExplanationClass > .textClass {
+  background: #BDBDBD !important;
+  color: black !important;
+  border-radius: 3px !important;
+}
+
+.scrollerClass {
+  background: #BDBDBD !important;
+  border: 1px transparent !important;
+  border-radius: 3px !important;
+}
+
+.auctionBoxHeaderCellClass {
+  border-radius: 0 !important;
+}
+
+auction-box-header-cell:nth-child(2) > .auctionBoxHeaderCellClass {
+  border-top-left-radius: 3px !important;
+}
+
+auction-box-header-cell:nth-child(5) > .auctionBoxHeaderCellClass {
+  border-top-right-radius: 3px !important;
+}
+
+.biddingBoxButtonClass {
+  border-radius: 3px !important;
+}
+
+.scorePanelClass {
+  background: transparent !important;
+  color: white !important;
+  border: 0 !important;
+}
+
+.scorePanelClass > .headingClass {
+  background: transparent !important;
+  color: white !important;
+  border: 0 !important;
+}
+
+.vulPanelInnerPanelClass {
+  background: #212121 !important;
+  color: white !important;
+  padding: 3px !important;
+  margin-top: -4px !important;
+  margin-left: -4px !important;
+}
+
+.dealViewerToolbarClass > .moreClass {
+  background: transparent !important;
+  border: none !important;
+}
+
+.toolbarClass {
+  background: #212121 !important;
+}
+
+.toolbarClass .buttonIconClass {
+  filter: contrast(0) !important;
+}
+
+.toolbarClass .iconButtonTextClass {
+  color: white !important;
+}
+
+chat-output {
+  background: transparent !important;
+}
+
+.chatOutputClass {
+  color: white !important;
+}
+
+.chatButtonPanelClass {
+  background: transparent !important;
+  border: none !important;
+}
