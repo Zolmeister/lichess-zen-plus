@@ -18,7 +18,7 @@ const timestampForFilesInDirectory = dir =>
             files.map (f => f.name + f.lastModifiedDate).join ())
 
 console.log('loading');
-chrome.tabs.query ({ url: '*://www.bridgebase.com/*' }, tabs => { // NB: see https://github.com/xpl/crx-hotreload/issues/5
+chrome.tabs.query ({ url: '*://lichess.org/*' }, tabs => { // NB: see https://github.com/xpl/crx-hotreload/issues/5
   console.log('injecting', tabs.length);
   tabs.map(tab => {
     console.log('???');

@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "BridgeBase Dark Theme",
+  "name": "Lichess Zen Plus",
   "version": "0.1",
   "web_accessible_resources": [
     "theme.css"
@@ -8,7 +8,7 @@
   "permissions": [
     "tabs",
     "management",
-    "*://www.bridgebase.com/*"
+    "*://lichess.org/*"
   ],
   "background": {
     "scripts": ["hot-reload.js"]
