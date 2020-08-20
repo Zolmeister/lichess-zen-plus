@@ -1,16 +1,10 @@
-#zentog {
-  display: none !important;
-}
-
 .round__app .user-link,
-.game__meta__players .user-link {
-  display: none;
-}
-
-main.tour .rating {
-  display: none;
-}
-
-body::-webkit-scrollbar {
-    display: none;
+.game__meta__players .user-link,
+#zentog,
+.pgn,
+.rating,
+body::-webkit-scrollbar,
+.rmoves,
+.upt__info__ratings {
+  display: none !important;
 }
