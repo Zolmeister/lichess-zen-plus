@@ -5,6 +5,31 @@
 .rating,
 body::-webkit-scrollbar,
 .rmoves,
-.upt__info__ratings {
+.upt__info__ratings,
+.lobby__box,
+.lobby__streams,
+.lobby__counters,
+.lobby__support,
+.lobby__about,
+.lobby__tv,
+.lobby__puzzle,
+#friend_box,
+.lpools .perf {
   display: none !important;
+}
+
+#top, .tabs-horiz {
+  opacity: 0 !important;
+}
+
+.lpools > div {
+  border: none !important;
+}
+
+body {
+  background: #161512 !important;
+}
+
+.lobby__app__content {
+  background: #262421 !important;
 }
