@@ -33,3 +33,7 @@ body {
 .lobby__app__content {
   background: #262421 !important;
 }
+
+.lobby__side {
+  overflow: visible !important;
+}
