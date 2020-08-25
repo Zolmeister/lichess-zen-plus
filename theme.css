@@ -14,7 +14,8 @@ body::-webkit-scrollbar,
 .lobby__tv,
 .lobby__puzzle,
 #friend_box,
-.lpools .perf {
+.lpools .perf,
+.lobby__side .timeline {
   display: none !important;
 }
 
